@@ -1,4 +1,4 @@
-                    Get To Know ME 😄
+   GET TO KNOW ME 😄
 
 👋 Hola! Bonjour! Nǐn hǎo! Konnichiwa! Anyoung haseyo!
 
