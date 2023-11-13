@@ -1,6 +1,6 @@
   
                          💡 FACTS
-  🙋 Hello, I am Cherry Mirra Calisnaoof.
+  🙋 Hello, I am Cherry Mirra Calisnao
   
   👩‍🎓 A student of WVSU under the CICT department.
   
