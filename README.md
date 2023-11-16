@@ -5,7 +5,7 @@
   
 
 
-  PROGRAMMING LANGUAGES:
+    PROGRAMMING LANGUAGES:
   
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
@@ -18,7 +18,7 @@
 
 
 
-SOCIAL MEDIA:
+    SOCIAL MEDIA:
 
 [![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/meenonose)
 [![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new)
