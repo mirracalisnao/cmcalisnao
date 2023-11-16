@@ -1,15 +1,25 @@
+  Hello, I am Cherry Mirra Calisnao
   
-                         💡 FACTS
-  🙋 Hello, I am Cherry Mirra Calisnao
-  
-  👩‍🎓 A Bachelor of Science in Computer Science student.
-  
-  🏠 Residing at [Brgy. Jamog, Tigbauan, Iloilo.](https://goo.gl/maps/JRj9QYpkenXBEABP9)
+  A Bachelor of Science in Computer Science student.
   
   
-            👌 KEEP IN TOUCH THROUGH MY SOCIAL MEDIA ACCOUNTS:
-   
-https://fontawesome.com/icons/facebook?f=brands&s=solid **Facebook:** [Cherry Mirra Calisnao](https://www.facebook.com/meenonose)
- 
-**E-mail:** [cherrymirra.calisnao@wvsu.edu.ph](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new)
+
+
+  PROGRAMMING LANGUAGES:
+  
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![HTML](https://img.icons8.com/color/48/000000/html-5.png)
+![Flutter](https://img.icons8.com/color/48/000000/flutter.png)
+![Dart](https://img.icons8.com/color/48/000000/dart.png)
+  
+
+
+
+
+SOCIAL MEDIA:
+
+[![Facebook](https://img.icons8.com/color/48/000000/facebook.png)](https://www.facebook.com/meenonose)
+[![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new)
 
